@@ -127,8 +127,8 @@ Após ser criada, irá aparecer uma janela com as credenciais, você pode dar ok
 renomeio o arquivo para **youtube.json** e salve dentro da pasta **video-maker/credentials** 😄
 
 ``` js
+// google-youtube.json
 {
-  // google-youtube.json
   "web":{
     "client_id": "...",
     "project_id": "...",
